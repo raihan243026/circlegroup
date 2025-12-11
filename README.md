@@ -1,4 +1,5 @@
-<img width="500" height="380" alt="image" src="https://github.com/user-attachments/assets/6332cfc7-7196-4ef2-b3b7-bbabe48b02f5" />
+
+![giphy](https://github.com/user-attachments/assets/1a860598-3ec0-41fd-9cb0-2a7991c6ddb0)
 
 
 
